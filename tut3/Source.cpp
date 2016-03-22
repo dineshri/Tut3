@@ -39,7 +39,8 @@ public:
 			return result;
 		}                               
 
-		~Dice() {} //default constructor
+		~Dice() {
+		} //default constructor
 };
 
 
